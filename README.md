@@ -1,2 +1,2 @@
 # servidor
-servidor de mine legal foda22
+Só um servidor de minecraft :/
